@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/11671943/130373282-9cdf12f7-0b4a-4a43-a665-a9f3bc072098.jpg" alt="logo_logico.jpg" width="auto" height="auto">
 </div>
 
-_Si tenés ganas de salir a bailar :dancer::man_dancing:, te recomendamos que esperes dado que no debe faltar mucho para poder hacerlo sin exponerte a vos y a quienes querés :relieved:. Esperá a que finalmente vuelvan a poder abrir los boliches en todo su esplendor :sparkles:. Teniendo en cuenta que cada vez falta menos, nos encargaron un sistema para poder relevar los distintos boliches del país y algunas de sus características._
+Nos encargaron un sistema para poder relevar los distintos boliches del país y algunas de sus características._
 
 En nuestra base de conocimientos contamos con los siguientes datos de los boliches:
 
@@ -61,6 +61,3 @@ Hacé los siguientes predicados teniendo en cuenta que deben ser **totalmente in
   * "Trabajamos y nos divertimos" será un boliche de temática oficina en el que entran 500 personas. Se va a poder cenar en esta interesante propuesta de Concordia.
   * "El fin del mundo" será el boliche más austral de la Argentina, con capacidad para 1500 personas. No se va a poder comer pero esto no interesa porque tendrá las vistas más lindas de Ushuaia y al DJ Luis tocando toda la noche: de 00 a 6 de la mañana. 
   * "Misterio" será el boliche más grande de Argentina, con capacidad para 1.000.000 de personas. La verdad es que no sabemos dónde se hará un boliche tan grande pero sí sabemos que se va a poder comer ahí mismo.
-
-**También podés ver el examen desde [acá](https://docs.google.com/document/d/1G0t9xAB9iy2thod9FZG_-FGyNXqxy1YQ3lrdnjc6v1Q/edit#).**
-
