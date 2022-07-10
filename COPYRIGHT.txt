@@ -1,0 +1,5 @@
+Copyright Cátedra de los lunes - PdeP UTN.BA and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/pdep-utn/mumuki-guia-prolog-pde-pe-pe-pe-pe-parcial-de-logico-simulacro-2022 and the AUTHORS.txt file.

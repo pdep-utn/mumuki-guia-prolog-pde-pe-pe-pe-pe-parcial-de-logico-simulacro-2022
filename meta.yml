@@ -1,0 +1,11 @@
+---
+name: PdePePePePe - Parcial de lógico
+locale: es
+type: practice
+beta: false
+teacher_info: ''
+language: prolog
+id_format: "%05d"
+order:
+- 1
+private: false
